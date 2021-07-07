@@ -1,9 +1,10 @@
 {
-    "name": "sepal-log",
+    "name": "@sepal/log",
     "version": "1.0.0",
     "description": "",
     "author": "",
     "license": "ISC",
+    "main": "src/log.js",
     "scripts": {
         "test": "jest",
         "testWatch": "jest --watchAll"
